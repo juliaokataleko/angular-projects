@@ -7,10 +7,20 @@
 
 <ul>
     <li>
-        <a target="_blank" href="https://github.com/juliaokataleko/angular-sandbox-app">Angular SandBox App With Users and Posts CRUD</a>
+        <h3>Angular SandBox App With Users and Posts CRUD</h3>
+        <b>Github Repo:</b>
+            <a target="_blank" href="https://github.com/juliaokataleko/angular-sandbox-app">Click here</a>
+        <hr>
+        <b>Demo link:</b>
+        <a target="_blank" href="https://angular-projects.windmot.com/sandbox/">Click here</a>
     </li>
     <li>
+        <h3>Angular DevLogger App Using Local storage</h3>
+        <b>Github Repo:</b>
         <a target="_blank" href="https://github.com/juliaokataleko/angular-devlogger">Angular DevLogger App Using Local storage</a>
+        <hr>
+        <b>Demo link:</b>
+        <a target="_blank" href="https://angular-projects.windmot.com/devlogger/">Click here</a>
     </li>
 </ul>
 
