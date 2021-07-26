@@ -3,6 +3,10 @@
 
 <p>This a repository where i store my Angular projects while i'm learning</p>
 
+<p> <b>Link: </b>
+<a target="_blank" href=" https://angular-projects.windmot.com/">Click here</a>
+ </p>
+
 ## Projects List
 
 <ul>
