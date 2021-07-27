@@ -26,6 +26,11 @@
         <b>Demo link:</b>
         <a target="_blank" href="https://angular-projects.windmot.com/devlogger/">Click here</a>
     </li>
+    <li>
+        <h3>Clients Panel With Firebase</h3>
+        <b>Github Repo:</b>
+        <a target="_blank" href="https://github.com/juliaokataleko/client-panel">Click here</a>
+    </li>
 </ul>
 
 <hr/>
