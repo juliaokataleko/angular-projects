@@ -14,17 +14,19 @@
         <h3>Angular SandBox App With Users and Posts CRUD</h3>
         <b>Github Repo:</b>
             <a target="_blank" href="https://github.com/juliaokataleko/angular-sandbox-app">Click here</a>
-        <hr>
+        <br>
         <b>Demo link:</b>
         <a target="_blank" href="https://angular-projects.windmot.com/sandbox/">Click here</a>
+       <hr>
     </li>
     <li>
         <h3>Angular DevLogger App Using Local storage</h3>
         <b>Github Repo:</b>
         <a target="_blank" href="https://github.com/juliaokataleko/angular-devlogger">Click here</a>
-        <hr>
+        <br>
         <b>Demo link:</b>
         <a target="_blank" href="https://angular-projects.windmot.com/devlogger/">Click here</a>
+     <hr>
     </li>
     <li>
         <h3>Clients Panel With Firebase</h3>
