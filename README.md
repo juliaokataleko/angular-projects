@@ -1,5 +1,8 @@
 # Welcome
-## My name is Julião F. Kataleko or JFK
+
+Note: Broken links
+
+## My name is Julião F. Kataleko
 
 <p>This a repository where i store my Angular projects while i'm learning</p>
 
